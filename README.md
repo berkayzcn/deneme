@@ -4,4 +4,3 @@
 12^+efefvı
 adjfosvsa
 
-[lorem ipsum](http://google.com)
