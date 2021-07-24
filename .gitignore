@@ -5,17 +5,17 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
-#img
+# img
 *.jpg
 *.png
 img/
 
-#videos
+# videos
 *.mp4
 
-#packages
+# packages
 
-#log
+# log
 *.log
 
 password.txt
